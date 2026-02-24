@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "What is Git?"
+title: "What is SBOM?"
 ---
 # What is an SBOM?
 
