@@ -2,8 +2,6 @@
 layout: page
 title: "What is SBOM?"
 ---
-# What is an SBOM?
-
 ## Plain-English definition
 An SBOM (Software Bill of Materials) is an inventory of the components inside a software product—like an ingredients label.
 
