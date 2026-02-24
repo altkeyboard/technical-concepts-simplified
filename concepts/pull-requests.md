@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "What is Git?"
+title: "What is a Pull Request?"
 ---
 # What is a Pull Request?
 
