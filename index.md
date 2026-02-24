@@ -6,6 +6,13 @@ Plain-English explainers for common technical concepts. Written for cross-functi
 
 **Goal:** Demonstrate technical writing skills, structured documentation, and Markdown + Git workflows.
 
+## Format
+Each explainer includes:
+- Plain-English definition
+- Why it matters
+- Key terms
+- Practical context or example
+
 ## Topics
 - [What is Git?](concepts/git)
 - [What is a Pull Request?](concepts/pull-requests)
