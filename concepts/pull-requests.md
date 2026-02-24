@@ -2,8 +2,6 @@
 layout: page
 title: "What is a Pull Request?"
 ---
-# What is a Pull Request?
-
 ## Plain-English definition
 A pull request (PR) is a request to review and merge changes from a branch into the main version of a project.
 
