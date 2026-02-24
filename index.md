@@ -2,7 +2,7 @@
 layout: home
 title: Technical Concepts, Simplified
 ---
-Plain-English explainers for common technical concepts. Written for cross-functional teams—clear definitions, why it matters, key terms, and practical context.
+A curated series of plain-English explainers for common technical concepts encountered in modern technical and regulated environments. Written for cross-functional teams—clear definitions, why it matters, key terms, and practical context.
 
 **Goal:** Demonstrate technical writing skills, structured documentation, and Markdown + Git workflows.
 
