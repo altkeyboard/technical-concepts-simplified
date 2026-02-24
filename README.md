@@ -1,4 +1,4 @@
-# Technical Concepts, Simplified
+## Technical Concepts, Simplified
 
 A small documentation site that explains common technical concepts in plain English.
 
