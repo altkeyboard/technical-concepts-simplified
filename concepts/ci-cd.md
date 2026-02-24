@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "What is Git?"
+title: "What is CI/CD?"
 ---
-# What is CI/CD?
-
 ## Plain-English definition
 CI/CD is an automated way to build, test, and deliver updates.
 
