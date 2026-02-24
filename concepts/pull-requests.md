@@ -1,3 +1,7 @@
+---
+layout: page
+title: "What is Git?"
+---
 # What is a Pull Request?
 
 ## Plain-English definition
