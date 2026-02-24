@@ -2,8 +2,6 @@
 layout: page
 title: "What is Zero Trust?"
 ---
-# What is Zero Trust?
-
 ## Plain-English definition
 Zero Trust is a security model that assumes no user or device should be trusted automatically—even inside the network.
 
