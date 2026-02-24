@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "What is Git?"
+title: "What is Zero Trust?"
 ---
 # What is Zero Trust?
 
