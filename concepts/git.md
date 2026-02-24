@@ -2,8 +2,6 @@
 layout: page
 title: "What is Git?"
 ---
-# What is Git?
-
 ## Plain-English definition
 Git is a version control system that records changes to files over time so you can review history, collaborate safely, and restore earlier versions if needed.
 
