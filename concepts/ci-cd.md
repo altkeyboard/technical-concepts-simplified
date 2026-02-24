@@ -1,3 +1,7 @@
+---
+layout: page
+title: "What is Git?"
+---
 # What is CI/CD?
 
 ## Plain-English definition
